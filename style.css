@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    align-items: center;
+}
+.navb{
+    list-style: none;
+}
+.navb li{
+    display: inline;
+    padding: 0px 20px;
+}
+ .navb li a {
+     font-weight: bold;
+
+}
+.navb li a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+    color: burlywood;
+
+}
+.logo{
+    background-color: black;
+    font-size: xx-large;
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(250, 248, 245);
+    width: 100px;
+    height: 50px;
+}
